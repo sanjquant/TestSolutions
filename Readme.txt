@@ -11,9 +11,3 @@
 # >> Install using >> pip install xlrd
 # >> install pandas and numpy
 #>>> install openpyxl
-
-# https://stackoverflow.com/questions/15476983/deserialize-a-json-string-to-an-object-in-python
-
-
-# Create Json models:
-# https://app.quicktype.io/
